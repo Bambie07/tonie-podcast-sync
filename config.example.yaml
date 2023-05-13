@@ -1,0 +1,12 @@
+login:
+  username: "user@example.com"
+  password: "verysecure"
+podcasts:
+  maus: "https://kinder.wdr.de/radio/diemaus/audio/gute-nacht-mit-der-maus/diemaus-gute-nacht-104.podcast"
+  pumuckl: "https://feeds.br.de/pumuckl/feed.xml"
+  checkertobi: "https://feeds.br.de/checkpod-der-podcast-mit-checker-tobi/feed.xml"
+  anne_und_die_wilden_tiere: "https://feeds.br.de/anna-und-die-wilden-tiere/feed.xml"
+sync:
+  gute-nacht:
+    id: 1234567890
+    podcast: maus

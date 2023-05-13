@@ -1,0 +1,6 @@
+services:
+  tps:
+    build: .
+    volumes:
+      - ./config.yaml:/app/config.yaml:ro
+      - ./podcasts:/app/podcasts
